@@ -21,7 +21,9 @@
 ​        Finally, the robot has to save itself from water by pulling up the bar, resulting in 30 points.
 ​        Three countries become allies and compete with the opponent alliance of 3 countries every game. 
 
-https://user-images.githubusercontent.com/54346256/211992671-b3b62e66-8597-42f4-8b2f-79bbc7516997.mp4
+
+
+https://user-images.githubusercontent.com/54346256/211996258-93493e66-cd03-49bf-930e-35b9d26e9ace.mp4
 
 ​        **Robot Flywheel Mechanism**. The main goal is to grab the balls scattered throughout the floor and shoot them to the top basket.
 ​        **PIDF** control system is used to control the velocity of flywheel and the ball.
@@ -34,8 +36,10 @@ https://user-images.githubusercontent.com/54346256/211992585-f3b5dea6-e92e-49b8-
 
 
 
-https://user-images.githubusercontent.com/54346256/211995427-07925cd8-f9b8-4d2f-a071-48510a60a774.mp4
 ​        Fun bottle cap challenge with the flywheel.
 
 
+
+
+https://user-images.githubusercontent.com/54346256/211996747-ee0f5630-fde8-4506-8937-3ed4b99e426d.mp4
 
