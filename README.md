@@ -3,8 +3,8 @@
 ## REPRESENTING MYANMAR <img src="./Photos/MM.svg">
 ![](./Photos/Team.jpg)
 
-​        We won Championship in Myanmar Roboleague 2019, and managed to get into First Global Challenge 2019.
-​        188 countries participated in the match and we won Judges First Award.
+​        We won the Championship in Myanmar Roboleague 2019 and managed to get into the First Global Challenge 2019.
+​        188 countries participated in the match and we won the Judges First Award.
 ​        Representative Team of Myanmar in First Global Challenge 2019 DUBAI.
 ​        (Left to Right) Hein Htut Zaw, Win Naing Kyaw, Thaw Dar San, Thiha Zaw, Khant Kyaw Khaung, Htet Myet Aung
  
@@ -26,44 +26,44 @@ The total gear ratio for speed will be 25/6 x  3/1 = 25/2  or 25:2 (12.5) which 
 
 ### BALL LIFTING MECHANISM & DOCKING MECHANISM
 
-<!DOCTYPE html>
+<div style="text-align: center;">
+  <img src="./Photos/Collecting_Mechanism.jpg" align="left" width="150px" />
+</div>
 
-<body>
-    <div class="row">
-        <div class="column">
-            <img src="./Photos/Collecting_Mechanism.jpg" width="250" hspace="50" title="Fig: Mechanism for collecting macro-pollutants which is jointed with the docking mechanism" />
-        </div>
-        <div class="column">
-            <img src="./Photos/omni_wheels.jpg" width="250" title="Fig: Base of the robot" />
-            <img src="./Photos/LiftMechanism.jpg" width="400" title="Fig: Mechanism for putting macro-pollutants onto the recycle level" />
-        </div>
-    </div>
-</body>
-</html>
+**Big Balls Collecting Mechanism**: Mechanism for collecting macro-pollutants which is jointed with the docking mechanism. The macro-pollutants are collected and moved to the top of the robot with belts and a linear motion mechanism. In the end, there is a servo motor for placing the pollutant to the “recycle level”. There is also no container in this mechanism and the pollutants will be saved in the beltway. The maximum number of pollutants that can be saved is three before taking them to the “recycle level”. 
+
+<img src="./Photos/omni_wheels.jpg" alt="Base of the Robot" width="250" hspace="50" title="Fig: Base of the robot" /> <img src="./Photos/LiftMechanism.jpg" alt="Lift Mechanism" width="250" title="Fig: Mechanism for putting macro-pollutants onto the recycle level" />
+
+**Base Omni Wheel Mechanism**: Used omni wheel to promote freedom of mobility. 
+**Docking and Automatic Macropollutant Mechanism**: 
 
 ## CODE DESIGN
 
-<img src>
+ <div class = "image-column">
+     <img src="./Photos/auto-drive.jpg" width="350" hspace="100"/>
+     <img src="./Photos/motor_control.jpg" width="350"/>
+  
+One big problem is even if the manual control is user-friendly, it still has a high chance of missing the balls. It is challenging to aim from the player’s perspective. So, an automatic function for aiming is used. This is where we put a lot of effort into software design. This uses extra sensors, a webcam, and sensor fusion algorithms.
+These are the class hierarchies of the two main schemes that we have used for the robot.
+The left diagram is the class hierarchy of motor control and the right is that of automatic aiming and sensor fusion.
 
 ## THE COMPETITION
 
 https://user-images.githubusercontent.com/54346256/211996258-93493e66-cd03-49bf-930e-35b9d26e9ace.mp4
 
-​**Robot Flywheel Mechanism**. The main goal is to grab the balls scattered throughout the floor and shoot them to the top basket.
-​**PIDF** control system is used to control the velocity of flywheel and the ball.
-​Mathematics and physics are heavily applied to calculate the required input needed.
+The test run from five days before the competition. By user input in controller pad, the robot will move and collect the ball, and shoot the ball into the top bin by calculating the needed velocity on its own.
+We developed an automated moving system to shooting position, but due to time constraints, we could not devlop it to be reliable enough for the competition.
 
 https://user-images.githubusercontent.com/54346256/211992585-f3b5dea6-e92e-49b8-937c-f766eecf2347.mp4
 
 ​Our best game in FGC2019.
-​Even though we did not win any top spots, we managed to get **Judges First Award** for implementation, robot design, mathematics concepts, and robot engineering book.
+​Even though we did not win any top spots, we managed to get **Judges First Award** for software design, robot design, mathematics concepts, and robot engineering book.
 
 
-
-​        Fun bottle cap challenge with the flywheel.
-
-
-
+## Thank You!
 
 https://user-images.githubusercontent.com/54346256/211996747-ee0f5630-fde8-4506-8937-3ed4b99e426d.mp4
 
+**In depth Documentatoin** could be viewed in the Engineering Notebook.pdf file. In this documentation, you could read about Sensor Fusion, Filter Algorithms, Feedback Cntrol Algorithms, Automation and our derivations for velocity of the flywheel, and the obstacles we faced.
+
+Thank you for being interested in our project. 
