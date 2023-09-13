@@ -1,6 +1,6 @@
 # First Global Team Myanmar 2019
 
-## REPRESENTING MYANMAR
+## REPRESENTING MYANMAR <img src="./Photos/MM_flag.svg">
 ![](./Photos/Team.jpg)
 
 ​        We won Championship in Myanmar Roboleague 2019, and managed to get into First Global Challenge 2019.
