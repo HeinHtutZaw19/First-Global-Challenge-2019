@@ -27,36 +27,15 @@ The total gear ratio for speed will be 25/6 x  3/1 = 25/2  or 25:2 (12.5) which 
 ### BALL LIFTING MECHANISM & DOCKING MECHANISM
 
 <!DOCTYPE html>
-<html>
-<head>
-    <style>
-        .row {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
 
-        .column {
-            flex: 1;
-        }
-
-        .sub-layout {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-    </style>
-</head>
 <body>
     <div class="row">
         <div class="column">
             <img src="./Photos/Collecting_Mechanism.jpg" width="250" hspace="50" title="Fig: Mechanism for collecting macro-pollutants which is jointed with the docking mechanism" />
         </div>
         <div class="column">
-            <div class="sub-layout">
-                <img src="./Photos/omni_wheels.jpg" width="250" title="Fig: Base of the robot" />
-                <img src="./Photos/LiftMechanism.jpg" width="400" title="Fig: Mechanism for putting macro-pollutants onto the recycle level" />
-            </div>
+            <img src="./Photos/omni_wheels.jpg" width="250" title="Fig: Base of the robot" />
+            <img src="./Photos/LiftMechanism.jpg" width="400" title="Fig: Mechanism for putting macro-pollutants onto the recycle level" />
         </div>
     </div>
 </body>
