@@ -11,8 +11,11 @@
 ## OUR ROBOT
 ![](./Photos/FlyingDutchman.jpg)
 
-​We named our robot **Flyin Dutchman** because of its task to do adventures in the seas and recycle.
-​It took 3 months for us to implement the system.
+<img src="./Photos/FlyingDutchman.jpg" width="300" hspace="50"/><img src="./Photos/FlyingDutchman1.jpg" width="300"/> 
+<img src="./Photos/FlyingDutchman2.jpg" width="300" hspace="50"/><img src="./Photos/FlyingDutchman3.jpg" width="300"/> 
+
+
+​We named our robot **Flyin Dutchman**. It took 3 months for us to implement the system. We used REV robotics kit with main language being JAVA. 
 
 ## MECHANICAL DESIGN
 ### FLYWHEEL MECHANISM
