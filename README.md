@@ -35,7 +35,7 @@ The total gear ratio for speed will be 25/6 x  3/1 = 25/2  or 25:2 (12.5) which 
 <img src="./Photos/omni_wheels.jpg" alt="Base of the Robot" width="250" hspace="50" title="Fig: Base of the robot" /> <img src="./Photos/LiftMechanism.jpg" alt="Lift Mechanism" width="250" title="Fig: Mechanism for putting macro-pollutants onto the recycle level" />
 
 **Base Omni Wheel Mechanism**: Used omni wheel to promote freedom of mobility. 
-**Docking and Automatic Macropollutant Mechanism**: 
+**Docking and Automatic Macropollutant Mechanism**: The robot's docking will be elevated according to user input and when the angles are correct, it will be lowered, thus safely dockig on the ball frame. As for the macropollutants, at most 3 pollutants could be carried at the same time and with one user input, the servos will automatically push these pollutants onto the 2nd level of the ball frame.
 
 ## CODE DESIGN
 
