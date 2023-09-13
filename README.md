@@ -40,7 +40,7 @@ The total gear ratio for speed will be 25/6 x  3/1 = 25/2  or 25:2 (12.5) which 
 ## CODE DESIGN
 
  <div class = "image-column">
-     <img src="./Photos/auto-drive.jpg" width="350" hspace="100"/>
+     <img src="./Photos/auto-drive.jpg" width="350" hspace="50"/>
      <img src="./Photos/motor_control.jpg" width="350"/>
   
 One big problem is even if the manual control is user-friendly, it still has a high chance of missing the balls. It is challenging to aim from the player’s perspective. So, an automatic function for aiming is used. This is where we put a lot of effort into software design. This uses extra sensors, a webcam, and sensor fusion algorithms.
