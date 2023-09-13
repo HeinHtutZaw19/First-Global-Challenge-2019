@@ -27,7 +27,6 @@ The total gear ratio for speed will be 25/6 x  3/1 = 25/2  or 25:2 (12.5) which 
 ### BALL LIFTING MECHANISM & DOCKING MECHANISM
 
 <div style="text-align: center;">
-<<<<<<< HEAD
   <img src="./Photos/Collecting_Mechanism.jpg" align="left" width="150px" />
 </div>
 
@@ -37,27 +36,12 @@ The total gear ratio for speed will be 25/6 x  3/1 = 25/2  or 25:2 (12.5) which 
 
 **Base Omni Wheel Mechanism**: Used omni wheel to promote freedom of mobility. 
 **Docking and Automatic Macropollutant Mechanism**: 
-=======
-  <img src="./Photos/Collecting_Mechanism.jpg" align="left" width="140px" />
-</div>
-
-**Big Balls Collecting Mechanism**: Mechanism for collecting macro-pollutants which is jointed with the docking mechanism. The macro-pollutants are collected and moved to the top of the robot with belts and a linear motion mechanism. In the end, there is a servo motor for placing the pollutant to the “recycle level”. There is also no container in this mechanism and the pollutants will be saved in the beltway. The maximum number of pollutants that can be saved is three before taking them to the “recycle level”. 
-
-<img src="./Photos/omni_wheels.jpg" alt="Base of the Robot" width="300" hspace="50" title="Fig: Base of the robot" /> <img src="./Photos/LiftMechanism.jpg" alt="Lift Mechanism" width="300" title="Fig: Mechanism for putting macro-pollutants onto the recycle level" />
-
-
->>>>>>> 4bfeecef7d02d057cdab5ffbef6dc3f37c7d7b85
 
 ## CODE DESIGN
 
  <div class = "image-column">
-<<<<<<< HEAD
      <img src="./Photos/auto-drive.jpg" width="350" hspace="100"/>
      <img src="./Photos/motor_control.jpg" width="350"/>
-=======
-     <img src="./Photos/auto-drive.jpg" width="400" hspace="100"/>
-     <img src="./Photos/motor_control.jpg" width="400"/>
->>>>>>> 4bfeecef7d02d057cdab5ffbef6dc3f37c7d7b85
   
 One big problem is even if the manual control is user-friendly, it still has a high chance of missing the balls. It is challenging to aim from the player’s perspective. So, an automatic function for aiming is used. This is where we put a lot of effort into software design. This uses extra sensors, a webcam, and sensor fusion algorithms.
 These are the class hierarchies of the two main schemes that we have used for the robot.
@@ -80,6 +64,6 @@ https://user-images.githubusercontent.com/54346256/211992585-f3b5dea6-e92e-49b8-
 
 https://user-images.githubusercontent.com/54346256/211996747-ee0f5630-fde8-4506-8937-3ed4b99e426d.mp4
 
-**In depth Documentatoin** could be viewed in the Engineering Notebook.pdf file. In this documentation, you could read about Sensor Fusion, Filter Algorithms, Feedback Cntrol Algorithms, Automation and our derivations for velocity of the flywheel, and the obstacles we faced.
+**In depth Documentatoin** could be viewed in the Engineering Notebook.pdf file. In this documentation, you could read about Sensor Fusion, Filtering Algorithms, Feedback Cntrol Algorithms, Automation and our derivations for velocity of the flywheel, and the obstacles we faced.
 
 Thank you for being interested in our project. 
