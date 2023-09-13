@@ -14,7 +14,7 @@
 ​        It took 3 months for us to implement the system.
 ​        The engineering notebook could be accessed in the docs folder.
 
-<img src="./Photos/Gears.jpg" width="200" height = 200/>        <img src="./Photos/ShootingMechanism.jpg" width="400"/> 
+<img src="./Photos/Gears.jpg" width="200" hspace="50"/><img src="./Photos/ShootingMechanism.jpg" width="400"/> 
 
     For shooting micro-pollutants, the pollutants will be placed between the two wheels which are rotating very high speed. When the pollutants get into those wheels, they will be fired to the desired location. 
     The two wheels which act as shooters will be controlled by a single motor and connected through gears. They will be rotating with same speed so that the pollutants won’t change direction but move straight while shooting. 
