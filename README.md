@@ -3,8 +3,8 @@
 ## REPRESENTING MYANMAR <img src="./Photos/MM.svg">
 ![](./Photos/Team.jpg)
 
-​        We won Championship in Myanmar Roboleague 2019, and managed to get into First Global Challenge 2019.
-​        188 countries participated in the match and we won Judges First Award.
+​        We won the Championship in Myanmar Roboleague 2019 and managed to get into the First Global Challenge 2019.
+​        188 countries participated in the match and we won the Judges First Award.
 ​        Representative Team of Myanmar in First Global Challenge 2019 DUBAI.
 ​        (Left to Right) Hein Htut Zaw, Win Naing Kyaw, Thaw Dar San, Thiha Zaw, Khant Kyaw Khaung, Htet Myet Aung
  
@@ -26,24 +26,25 @@ The total gear ratio for speed will be 25/6 x  3/1 = 25/2  or 25:2 (12.5) which 
 
 ### BALL LIFTING MECHANISM & DOCKING MECHANISM
 
-<!DOCTYPE html>
+<div style="text-align: center;">
+  <img src="./Photos/Collecting_Mechanism.jpg" align="left" width="140px" />
+</div>
 
-<body>
-    <div class="row">
-        <div class="column">
-            <img src="./Photos/Collecting_Mechanism.jpg" width="250" hspace="50" title="Fig: Mechanism for collecting macro-pollutants which is jointed with the docking mechanism" />
-        </div>
-        <div class="column">
-            <img src="./Photos/omni_wheels.jpg" width="250" title="Fig: Base of the robot" />
-            <img src="./Photos/LiftMechanism.jpg" width="400" title="Fig: Mechanism for putting macro-pollutants onto the recycle level" />
-        </div>
-    </div>
-</body>
-</html>
+**Big Balls Collecting Mechanism**: Mechanism for collecting macro-pollutants which is jointed with the docking mechanism. The macro-pollutants are collected and moved to the top of the robot with belts and a linear motion mechanism. In the end, there is a servo motor for placing the pollutant to the “recycle level”. There is also no container in this mechanism and the pollutants will be saved in the beltway. The maximum number of pollutants that can be saved is three before taking them to the “recycle level”. 
+
+<img src="./Photos/omni_wheels.jpg" alt="Base of the Robot" width="300" hspace="50" title="Fig: Base of the robot" /> <img src="./Photos/LiftMechanism.jpg" alt="Lift Mechanism" width="300" title="Fig: Mechanism for putting macro-pollutants onto the recycle level" />
+
+
 
 ## CODE DESIGN
 
-<img src>
+ <div class = "image-column">
+     <img src="./Photos/auto-drive.jpg" width="400" hspace="100"/>
+     <img src="./Photos/motor_control.jpg" width="400"/>
+  
+One big problem is even if the manual control is user-friendly, it still has a high chance of missing the balls. It is challenging to aim from the player’s perspective. So, an automatic function for aiming is used. This is where we put a lot of effort into software design. This uses extra sensors, a webcam, and sensor fusion algorithms.
+These are the class hierarchies of the two main schemes that we have used for the robot.
+The left diagram is the class hierarchy of motor control and the right is that of automatic aiming and sensor fusion.
 
 ## THE COMPETITION
 
