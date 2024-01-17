@@ -12,13 +12,13 @@
 
 
 <p align="center">
-  <img src="./include/FlyingDutchman" width="45%" />
-  <img src="./include/FlyingDutchman1.jpg" width="45%" />
+  <img src="./Photos/FlyingDutchman" width="45%" />
+  <img src="./Photos/FlyingDutchman1.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./include/FlyingDutchman2" width="45%" />
-  <img src="./include/FlyingDutchman3.jpg" width="45%" />
+  <img src="./Photos/FlyingDutchman2" width="45%" />
+  <img src="./Photos/FlyingDutchman3.jpg" width="45%" />
 </p>
 
 ​We named our robot **Flyin Dutchman**. It took 3 months for us to implement the system. We used REV robotics kit with main language being JAVA. Our main task is to recycling as many trash(balls) as possible before the flood, and when the timer is up we would have to dock ourselves onto the bar. Saving small balls onto the toppest bin is worth 20 points, big balls into middle basket is worth 10 points, and safely docking is worth 30 points. ​Three countries become allies and compete with the opponent alliance of 3 countries every game. 
@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="./Photos/Gears.jpg" width="45%" />
-  <img src="./include/ShootingMechanism.jpg" width="45%" />
+  <img src="./Photos/ShootingMechanism.jpg" width="45%" />
 </p>
 
 For shooting micro-pollutants, the pollutants will be placed between the two wheels which are rotating very high speed. When the pollutants get into those wheels, they will be fired to the desired location. 
