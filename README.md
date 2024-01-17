@@ -12,12 +12,12 @@
 
 
 <p align="center">
-  <img src="./Photos/FlyingDutchman.jpg" width="45%" />
+  <img src="./Photos/FlyingDutchman.jpg" width="30%" />
   <img src="./Photos/FlyingDutchman1.jpg" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./Photos/FlyingDutchman2.jpg" width="30%" />
+  <img src="./Photos/FlyingDutchman2.jpg" width="45%" />
   <img src="./Photos/FlyingDutchman3.jpg" width="45%" />
 </p>
 
@@ -27,7 +27,7 @@
 ### FLYWHEEL MECHANISM
 
 <p align="center">
-  <img src="./Photos/Gears.jpg" width="30%" />
+  <img src="./Photos/Gears.jpg" width="45%" />
   <img src="./Photos/ShootingMechanism.jpg" width="45%" />
 </p>
 
