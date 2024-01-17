@@ -38,7 +38,7 @@ The total gear ratio for speed will be 25/6 x  3/1 = 25/2  or 25:2 (12.5) which 
 ### BALL LIFTING MECHANISM & DOCKING MECHANISM
 
 <p align="center" width="100%">
-    <img width="20%" height = "50%" src="./Photos/Collecting_Mechanism.jpg"> 
+    <img width="15%" height = "50%" src="./Photos/Collecting_Mechanism.jpg"> 
 </p>
 
 **Big Balls Collecting Mechanism**: Mechanism for collecting macro-pollutants which is jointed with the docking mechanism. The macro-pollutants are collected and moved to the top of the robot with belts and a linear motion mechanism. In the end, there is a servo motor for placing the pollutant to the “recycle level”. There is also no container in this mechanism and the pollutants will be saved in the beltway. The maximum number of pollutants that can be saved is three before taking them to the “recycle level”. 
