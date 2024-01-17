@@ -78,7 +78,7 @@ https://user-images.githubusercontent.com/54346256/211992585-f3b5dea6-e92e-49b8-
 
 ## Thank You!
 <p align="center" width="100%">
-    <img width="33%" src=[./Photos/Collecting_Mechanism.jpg](https://user-images.githubusercontent.com/54346256/211996747-ee0f5630-fde8-4506-8937-3ed4b99e426d.mp4)> 
+    <img width="33%" src=(https://user-images.githubusercontent.com/54346256/211996747-ee0f5630-fde8-4506-8937-3ed4b99e426d.mp4)> 
 </p>
 
 
