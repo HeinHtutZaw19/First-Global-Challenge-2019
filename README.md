@@ -77,8 +77,12 @@ https://user-images.githubusercontent.com/54346256/211992585-f3b5dea6-e92e-49b8-
 
 
 ## Thank You!
+
 <div align="center">
-  <video src="https://user-images.githubusercontent.com/54346256/211996747-ee0f5630-fde8-4506-8937-3ed4b99e426d.mp4" width="400" />
+  <video width="320" height="240" controls>
+    <source src="https://user-images.githubusercontent.com/54346256/211996747-ee0f5630-fde8-4506-8937-3ed4b99e426d.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
    
 **In depth Documentatoin** could be viewed in the Engineering Notebook.pdf file. In this documentation, you could read about Sensor Fusion, Filtering Algorithms, Feedback Cntrol Algorithms, Automation and our derivations for velocity of the flywheel, and the obstacles we faced.
