@@ -78,7 +78,9 @@ https://user-images.githubusercontent.com/54346256/211992585-f3b5dea6-e92e-49b8-
 
 ## Thank You!
 
-https://github.com/HeinHtutZaw19/First-Global-Challenge-2019/assets/54346256/be8f30c6-3af3-4d4e-8502-5eb13ad56598
+
+https://github.com/HeinHtutZaw19/First-Global-Challenge-2019/assets/54346256/df6ac5b7-ffd6-47a0-aca6-ac2d632051f8.mp4
+
 **In depth Documentatoin** could be viewed in the Engineering Notebook.pdf file. In this documentation, you could read about Sensor Fusion, Filtering Algorithms, Feedback Cntrol Algorithms, Automation and our derivations for velocity of the flywheel, and the obstacles we faced.
 
 Thank you for being interested in our project. 
