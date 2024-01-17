@@ -37,7 +37,7 @@ The total gear ratio for speed will be 25/6 x  3/1 = 25/2  or 25:2 (12.5) which 
 
 ### BALL LIFTING MECHANISM & DOCKING MECHANISM
 
-<div style="text-align:center;">
+<div style="text-align:left;">
   <img src="./Photos/Collecting_Mechanism.jpg" alt="Big Balls Collecting Mechanism">
 </div>
 
